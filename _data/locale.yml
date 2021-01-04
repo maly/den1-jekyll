@@ -34,7 +34,7 @@ en-AU:
 ########################
 cs: &CS
   SUBSCRIBE               : "Odebírat"
-  READMORE                : "Přečíst"
+  READMORE                : "Odkaz na článek"
   SEARCH                  : "Hledat"
   CANCEL                  : "Zrušit"
   VIEWS                   : "zhlédnutí"
