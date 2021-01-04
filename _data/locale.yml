@@ -30,6 +30,31 @@ en-CA:
 en-AU:
   <<: *EN
 
+## => Cz
+########################
+cs: &CS
+  SUBSCRIBE               : "Odebírat"
+  READMORE                : "Přečíst"
+  SEARCH                  : "Hledat"
+  CANCEL                  : "Zrušit"
+  VIEWS                   : "zhlédnutí"
+  LAST_UPDATED            : "Naposledy upraveno"
+  PREVIOUS                : "Předchozí"
+  NEXT                    : "Následující"
+  ARTICLE_DATE_FORMAT     : "%b %d, %Y"
+  ARTICLE_LIST_DATE_FORMAT: "%b %d"
+  STATISTICS              : "[POST_COUNT] článků, [PAGE_COUNT] stránek."
+  LICENSE_ANNOUNCE        : "Publikováno pod licencí [LICENSE]."
+  POST_ON_GITHUB          : "Editovat na Githubu"
+  FOLLOW_ME               : "Sledujte mě na [NAME]."
+  FOLLOW_US               : "Follow us on [NAME]."
+  EMAIL_ME                : "Pošlete mi mail."
+  EMAIL_US                : "Send us an Email."
+  COPYRIGHT_DATES         : "2021"
+
+cs-CZ:
+  <<: *CS
+
 ## => Simplified Chinese
 ########################
 zh-Hans: &ZH_HANS
