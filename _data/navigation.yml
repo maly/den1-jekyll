@@ -33,12 +33,6 @@ header:
 
   - titles:
       # @start locale config
-      cs      : &CS       Blog na Mediu
-      # @end locale config
-    url: https://adent.medium.com/
-
-  - titles:
-      # @start locale config
       cs      : &CS       Info.cz
       # @end locale config
     url: https://www.info.cz/autori/martin-maly
