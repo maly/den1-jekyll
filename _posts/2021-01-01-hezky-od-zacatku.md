@@ -1,6 +1,6 @@
 ---
 title: Hezky od začátku
-tags: Den 1, pátek
+tags: "Den 1", pátek
 ---
 
 Rok 2021 musí začít od začátku, od roku 1. Teda od prvního ledna. Nejlepší, co člověk může prvního ledna dělat, je: NIC.
