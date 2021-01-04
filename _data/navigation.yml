@@ -27,6 +27,30 @@ header:
 
   - titles:
       # @start locale config
+      cs      : &CS       Staré blogy
+      # @end locale config
+    url: https://misantrop.info/
+
+  - titles:
+      # @start locale config
+      cs      : &CS       Blog na Mediu
+      # @end locale config
+    url: https://adent.medium.com/
+
+  - titles:
+      # @start locale config
+      cs      : &CS       Info.cz
+      # @end locale config
+    url: https://www.info.cz/autori/martin-maly
+
+  - titles:
+      # @start locale config
+      cs      : &CS       Knihy
+      # @end locale config
+    url: https://datacipy.cz/
+
+  - titles:
+      # @start locale config
       cs      : &CS       O mně
       en      : &EN       About
       en-GB   : *EN
@@ -49,4 +73,4 @@ header:
       fr-FR   : *FR
       fr-LU   : *FR
       # @end locale config
-    url: /about.html
+    url: https://maly.cz/
