@@ -1,6 +1,6 @@
 ---
 title: Vystavení
-tags: [čtvrtek, čeština]
+tags: [sobota, čeština]
 ---
 
 ![cover](/img/stopka.jpg)
