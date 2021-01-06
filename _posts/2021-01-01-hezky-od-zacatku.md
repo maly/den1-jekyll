@@ -2,7 +2,7 @@
 title: Hezky od začátku
 tags: [pátek, začátek, Kuřecí Con Carne II]
 article_header:
-  type: cover
+  type: overlay
   image:
     src: /img/first.jpg
 ---
