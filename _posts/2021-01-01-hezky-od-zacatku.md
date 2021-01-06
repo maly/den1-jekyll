@@ -1,6 +1,10 @@
 ---
 title: Hezky od začátku
 tags: [pátek, začátek, Kuřecí Con Carne II]
+article_header:
+  type: cover
+  image:
+    src: /img/first.jpg
 ---
 
 Rok 2021 musí začít od začátku, od dne 1. Teda od prvního ledna. 

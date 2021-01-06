@@ -1,6 +1,10 @@
 ---
 title: Vystavení
 tags: [čtvrtek, čeština]
+article_header:
+  type: cover
+  image:
+    src: /img/stopka.jpg
 ---
 
 Vláda těmto snahám vystavila stopku.
