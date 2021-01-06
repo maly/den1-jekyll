@@ -7,6 +7,8 @@ article_header:
     src: /img/stopka.jpg
 ---
 
+![cover](/img/stopka.jpg)
+
 Vláda těmto snahám vystavila stopku.
 
 Taky mohla vláda stopku ukázat, že? _Až dojíte jablko, ukažte stopku!_
