@@ -7,7 +7,7 @@ tags: [úterý, čeština]
 
 Ještě jedna věc mě štve víc než plurálus cocottus "myčeši", totiž takový hrozný slovní tik některých lidí, kteří mají pocit, že zákazník či klient je tam kvůli nim.
 
-"Tak, vy se mi tu posaďte," pravila zdravotní sestra. Úplně mě bodlo v hlavě - ne, to nebyl ten výkon, to byla tou strašlivou floskulí. Já tam přišel, je logické, že si sednu, ale sednu si tak nějak sám sobě, případně nám oběma v rámci usnadnění zákroku, ne zdravotní sestře. Nepřišel jsem tam proto, abych si jí někam sedal, jestli si rozumíme...
+"Tak, vy se mi tu posaďte," pravila zdravotní sestra. Úplně mě bodlo v hlavě - ne, to nebyl ten výkon, to bylo tou strašlivou floskulí. Já tam přišel, je logické, že si sednu, ale sednu si tak nějak sám sobě, případně nám oběma v rámci usnadnění zákroku, ne zdravotní sestře. Nepřišel jsem tam proto, abych si jí někam sedal, jestli si rozumíme...
 
 Rudolf Křesťan zmiňoval výrok jakéhosi bazénového posluhy "lidé nám nenosí koupací čepice". Tak hlásím, že od těch dob floskule kvete dál. _Ona si mi vám kvete_, abych byl stylový.
 
