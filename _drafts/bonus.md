@@ -1,1 +1,0 @@
-Bonus pro očkované? Jednoznačně ne ve chvíli, kdy očkování je na pořadník a reálné termíny v nedohlednu. Protože jak je někde pořadník a prioritizace dle "hledisek", je tam obrovský prostor pro korupci. A kdyby za to měly být bonusy, bude korupční tlak ještě vyšší.
