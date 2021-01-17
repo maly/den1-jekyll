@@ -7,7 +7,7 @@ tags: [neděle, život]
 
 Nemyslím Trumpovu, ani Bidenovu, natož cokoli spojeného s vaší firmou či úřadem. Myslím tu svoji, rutinní. Prostě je neděle a já dělám administrativu... Vyřizuju věci, jestli mi rozumíte.
 
-Ne, nečetl jsem ani "Getting Things Done", ani nejsem školen v Kanbanu, žádné lean metodiky ani clean inboxy. Nemám za sebou ani pobyt ve tmě a více než 18+ let čtení motivačních příruček. Jsem prostě samouk. Být cizouk, měl bych to opřené o auitority, teď to mám opřené jen o zkušenost.
+Ne, nečetl jsem ani "Getting Things Done", ani nejsem školen v Kanbanu, žádné lean metodiky ani clean inboxy. Nemám za sebou ani pobyt ve tmě a více než 18+ let čtení motivačních příruček. Jsem prostě samouk. Být cizouk, měl bych to opřené o autority, teď to mám opřené jen o zkušenost.
 
 A tak sedám třeba k mailu a dělám následující. Beru jeden za druhým do ruky (pomyslně, samozřejmě) a třídím: Smazat, archivovat, vyřešit.
 
