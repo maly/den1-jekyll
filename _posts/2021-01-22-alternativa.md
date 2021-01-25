@@ -1,11 +1,12 @@
 ---
 title: Alternativa
 tags: [pátek, věda]
+twimage: /img/alternativa.jpg
 ---
 
 ![cover](/img/alternativa.jpg)
 
-Ostatně soudím, že by  se měla začít vyučovat alternativní matematika.
+Ostatně soudím, že by se měla začít vyučovat alternativní matematika.
 
 Zcela vážně!
 
@@ -19,7 +20,7 @@ A víte co? Máte pravdu. Alternativní matematika není matematika, je to píč
 
 Postavte se na hlavu, ale tak to je. Na převezení knihovny si vezmu stěhováky s kladkou, pákou a hydraulikou, ne telekinetika. Když potřebuju zjistit, jaké daně se platí, použiju reálného daňového poradce, ne alternativního. Když si zlomím končetinu, půjdu s tím za doktorem bez přívlastků, ne za alternativním léčitelem, co přiloží krystaly a oznámí mi, že mi tělo dává najevo, že jsem neodpustil svému otci. (Ne, když přiložíte jitrocel místo krystalů, nezlepšíte to.)
 
-Alternativa původně znamenalo "něco jiného, co ale lze použít místo původní věci". Alternativa komerčního software v podobě open source a freeware, například. Jenže pak se posouvalo, rozšiřovalo a rozvolňovalo, až nakonec slovo "alternativní" zmutovalo významově do kamuflážní vlaječky, která, zapíchnuta do hovna na chodníku, z něj vytvoří "alternativní ambru". 
+Alternativa původně znamenalo "něco jiného, co ale lze použít místo původní věci". Alternativa komerčního software v podobě open source a freeware, například. Jenže pak se posouvalo, rozšiřovalo a rozvolňovalo, až nakonec slovo "alternativní" zmutovalo významově do kamuflážní vlaječky, která, zapíchnuta do hovna na chodníku, z něj vytvoří "alternativní ambru".
 
 Být alternativní, tak napíšu, že jste právě dočetli alternativní sonet. Co na tom, že to nesplňuje parametry sonetu, však **kdo vám dal právo posuzovat, co je sonet a co není?**
 

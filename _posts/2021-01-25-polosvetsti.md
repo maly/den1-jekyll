@@ -1,10 +1,10 @@
 ---
 title: Polosvětští
 tags: [pondělí, život, Covid, společnost]
+twimage: /img/polosvetsti.jpg
 ---
 
 ![cover](/img/polosvetsti.jpg)
-
 
 Nechme lyžaře lyžařema. Fakt, při jízdě z kopce se nikdo nenakazil, ani při jízdě na vleku se nikdo nenakazil, ovšem nejde o prkýnka a kopce.
 
