@@ -1,5 +1,5 @@
 ---
-title: Per aspera
+title: Per Aspera
 tags: [sobota, hry]
 twimage: /img/peraspera.jpg
 ---
