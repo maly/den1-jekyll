@@ -1,2 +1,4 @@
 Právě mi přišel (z domény kloc.cz, ale podepsaný "aaa") komentář k mému online assembleru ve znění: "no to je fakt bomba, co takhle delat neco uzitecneho ? 😛"
 Mám je rád, tyhlety anonymní strážce užitečnosti jiných lidí.
+
+laskavý dozor nad užitečností
