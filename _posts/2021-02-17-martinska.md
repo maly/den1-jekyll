@@ -20,6 +20,6 @@ Moje matka jako skladová účetní strávila v 80. letech hodně času děrová
 
 Odvezli jste si drahocennost domů, a tam jste se jali program přepisovat. Šlo to těžko, protože originální časopisy byly barevné, výpisy byly často na nějaké barevné ploše, a při vytváření jednobarevných mikrofiší se to prostě - ztratilo. Nebo aspoň znečitelnilo. Ale někdy jste měli štěstí, tak jste celé odpoledne přepisovali program, pak jste ho spustili, a on nefungoval.
 
-To byl přesně ten okamžik, kdy se tužily charaktery nás, budoucích chlápků od počítačů... S vědomím, že budeme vždycky dvacet let za světem, že budeme bastlit ze Spekter průmyslové řídicí stroje, zatímco kolem už zuřily Amigy, že se nedostaneme k literatuře, s tím vším jsme přesto šli do Martinské, požádali o mikrofiš a přestáli povídání o tom, že to není pro nás, ale teda... protentokrát...
+To byl přesně ten okamžik, kdy se tužily charaktery nás, budoucích kluků (_jo, je to tak, holky tam snad ani nechodily, ale klidně mě opravte, klidně tam i černošky a lesbičky dodejte_) od počítačů... S vědomím, že budeme vždycky dvacet let za světem, že budeme bastlit ze Spekter průmyslové řídicí stroje, zatímco kolem už zuřily Amigy, že se nedostaneme k literatuře, s tím vším jsme přesto šli do Martinské, požádali o mikrofiš a přestáli povídání o tom, že to není pro nás, ale teda... protentokrát...
 
 Od té doby jsem alergický na strážce bran, co odhánějí zájemce o techniku se slovy _to není na hraní_, ale o tom někdy jindy.
