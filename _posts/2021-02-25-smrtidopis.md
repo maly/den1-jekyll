@@ -1,6 +1,6 @@
 ---
 title: Smrtidopis
-tags: [středa, život]
+tags: [čtvrtek, život]
 twimage: /img/smrtidopis.jpg
 ---
 
