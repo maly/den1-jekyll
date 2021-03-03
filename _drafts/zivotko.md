@@ -1,0 +1,5 @@
+Životko
+zdravotko
+odpolko
+kójo
+
