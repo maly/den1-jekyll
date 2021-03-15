@@ -6,7 +6,7 @@ twimage: /img/historicky.jpg
 
 ![cover](/img/historicky.jpg)
 
-15. březen je 74. den roku podle gregoriánského kalendáře (75. v přestupném roce). Do konce roku zbývá 291 dní. Svátek má Ida. Nemáte zač. (Wikipedie)
+Patnáctý březen je 74. den roku podle gregoriánského kalendáře (75. v přestupném roce). Do konce roku zbývá 291 dní. Svátek má Ida. Nemáte zač. (Wikipedie)
 
 Na patnáctého března připadaly takzvané "březnové idy". Idy byly v římském kalendáři jeden ze tří hlavních dnů v měsíci, podle nichž se počítalo datum. Byly kalendy, nóny a idy. Kalendy byly první den v měsíci, nóny pátý nebo sedmý den, idy třináctý nebo patnáctý den, a římané udávali data stylem "šest dní do lednových Kalend" a tak.
 
