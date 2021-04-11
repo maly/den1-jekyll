@@ -8,7 +8,7 @@ twimage: /img/czechitas.jpg
 
 Czechitas oznámily, že opět otvírají letní školu programování pro ženy, dívky a holky, což je skvělá věc, a hned vám řeknu, proč si to myslím.
 
-Samozřejmě se hned objevil komentář o diskriminaci ("proč jen holky?") a už se řeší levicový bullshit: dioskriminace vs pozitivní diskriminace vs maskulinní útlak vs jánevím co ještě. 
+Samozřejmě se hned objevil komentář o diskriminaci ("proč jen holky?") a už se řeší levicový bullshit: diskriminace vs pozitivní diskriminace vs maskulinní útlak vs jánevím co ještě. 
 
 Jednou jsem kolegovi doporučoval nějaký balíček na Humble Bundle, kde zrovna šla část příjmu na podporu žen v IT, a kolega mi říkal: "Tyjo, co to zase je za neziskovkovou pračku na prachy, já to úplně nesnáším, tyhle uměle vytvořené problémy..." A já mu na to vyprávěl jednu historku.
 
@@ -20,7 +20,7 @@ Od té doby se mi naskytlo několik podobných příležitostí, a vždy to bylo
 
 Problém jsou ne jen burani, ale i společenský tlak. Dost často mají s _holkou, kterou baví technika_ problém hlavně různé tetičky, babičky a kámice. Nesplňuje jejich představy o _správném ženském chování_. Historky o rodičích, kteří _teda nakonec strpí_, že dcera chodí do kroužku programování, ačkoli vždy důsledně dodávají, že oni _s tím tedy moc nesouhlasí_, taky nejsou nijak vzácné.
 
-A proto si myslím, že věci jako [Czechitas](https://www.czechitas.cz/cs/) mají smysl. Nevnímám to jako _pozitivní diskriminaci_ ani jako _hledání problému, kde není_, vnímám to jako fajn iniciativu, kde se holky (samy si tak říkají, to není pejorativní označení, milé woke) cítí "být mezi svými". Nejde o to, že by je muži "ohrožovali" a že by se kvůli tomu separovaly, kdepak. Jde hlavně o to, že jim to pomůže vyrovnat se s tlakem okolí a s pocitem _nepatřičnosti_. Protože to je ten problém, který nenarovnají žádné umělé kvóty (ty naopak situaci spíš zhorší). Holky slýchají, že _to pro ně není_, že _to je klučičí_, a proto se v přítomnosti kluků ostýchají: "co když něco řeknu, to všichni protočej oči a řeknou si Nojo, holka..." Czechitas jim v tom může pomoct. Když samy vidí, že jsou dobré a umí, tak pak případné _blbé hemzy_ zvládnou mnohem líp.
+A proto si myslím, že věci jako [Czechitas](https://www.czechitas.cz/cs/) mají smysl. Nevnímám to jako _pozitivní diskriminaci_ ani jako _hledání problému, kde není_, vnímám to jako fajn iniciativu, kde se holky (samy si tak říkají, to není pejorativní označení, milé woke) cítí "být mezi svými". Nejde o to, že by je muži "ohrožovali" a že by se kvůli tomu separovaly, kdepak. Jde hlavně o to, že jim to pomůže vyrovnat se s tlakem okolí a s pocitem _nepatřičnosti_. Protože to je ten problém, který nenarovnají žádné umělé kvóty (ty naopak situaci spíš zhorší). Holky slýchají, že _to pro ně není_, že _to je klučičí_ (a ruku na srdce: to říkají jen zastuzenci, zato bez ohledu na pohlaví), a proto se v přítomnosti kluků ostýchají: "co když něco řeknu, to všichni protočej oči a řeknou si Nojo, holka..." Czechitas jim v tom může pomoct. Když samy vidí, že jsou dobré a umí, tak pak případné _blbé hemzy_ zvládnou mnohem líp.
 
 Držím palce všem, co do toho jdou, a nenechají se zviklat ani kecama o tom, že _to pro holky není_, ani kecama o pozitivní diskriminaci.
 
