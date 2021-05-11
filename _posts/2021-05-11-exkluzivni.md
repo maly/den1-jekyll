@@ -20,7 +20,7 @@ Byl smutný, pan ředitel, to nemohu říct. Ptal se mě, jak by to mohli omezit
 
 Zbytek našeho hovoru si nechám pro sebe, není to podstatné, a to výše napsané demonstruju na jednom nedávném příkladu.
 
-Na INFO.cz jsme napsali, že ministr Hamáček je mamlas. Ne, promiňte, to nebyla ta exkluzivní zpráva, to se ví. Napsali jsme, že [Havlíček odvolal Netolického](https://www.info.cz/zpravodajstvi/cesko/odplata-za-praskacstvi-hejtman-netolicky-byl-odvolan-z-postu-clena-dozorci-rady-ceske-posty). Měli jsme tu informaci první a [pustili jsme ji ve 12:56](https://twitter.com/adent/status/1390621481961496577).
+Na INFO.cz jsme napsali, že ministr Hamáček je mamlas. Ne, promiňte, to nebyla ta exkluzivní zpráva, to se ví. Napsali jsme, že [Hamáček odvolal Netolického](https://www.info.cz/zpravodajstvi/cesko/odplata-za-praskacstvi-hejtman-netolicky-byl-odvolan-z-postu-clena-dozorci-rady-ceske-posty). Měli jsme tu informaci první a [pustili jsme ji ve 12:56](https://twitter.com/adent/status/1390621481961496577).
 
 Ve 13:20 zprávu [vydaly SeznamZprávy](https://www.seznamzpravy.cz/clanek/netolicky-promluvil-proti-hamackovi-vnitro-ho-odvolalo-z-dozorci-rady-ceske-posty-153622). Já si toho všimnul ve 13:26. Trvalo to tedy kolik? Ano, správně, trvalo to 24 minut.
 
