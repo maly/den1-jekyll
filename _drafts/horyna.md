@@ -1,1 +1,0 @@
-Horyna kýč
