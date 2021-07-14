@@ -1,5 +1,5 @@
 ---
-title: Vyrazili jsme do Chorvatska naftovým SUV
+title: Vyrazili jsme do Chorvatska s naftovým SUV
 tags: [čtvrtek, média]
 twimage: /img/chorvatsko.jpg
 ---
