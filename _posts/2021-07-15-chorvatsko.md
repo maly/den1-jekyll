@@ -16,7 +16,9 @@ Ale to už jsme sjížděli z alpských hřebenů ke Štýrskému Hradci a otev�
 
 Cesta přes Karlovac do Šibeniku jsme si vzpomněli na všechny ty, kteří jedou do Chorvatska elektromobilem, protože jsme zahlédli odbočku na památník, postavený k uctění velkého vynálezce elektromobilu, chorvatského technika srbského původu Nikoly Tesly. A již brzy nato jsme poprvé za celou cestu zahlédli moře. To už bylo poledne a my měli před sebou ještě část cesty, až za Šibenik.
 
-Do cíle jsme dojeli v pozdním odpoledni. Jak vidíte, naše zkušenost potvrdila, že do Chorvatska lze dojet i s naftovým SUV, a kromě nezbytných pauz na odpočinek a jedno tankování nevznikly výraznější prostoje. Není třeba se obávat komplikací.
+Do cíle jsme dojeli v pozdním odpoledni. Jak vidíte, naše zkušenost potvrdila, že do Chorvatska lze dojet i s naftovým SUV, a kromě nezbytných pauz na odpočinek a jedno tankování nevznikly výraznější prostoje. Není třeba se obávat komplikací, do cíle, jak sami vidíte, dojedete:
+
+![Kudy tudy do Bavorova?!](/img/potpican.jpg)
 
 Na závěr pár užitečných tipů a zajímavostí:
 
