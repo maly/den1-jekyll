@@ -14,7 +14,7 @@ U odbočky na A9 jsme si všimli, že venku je stále tma, ale nebyl čas tuto z
 
 Ale to už jsme sjížděli z alpských hřebenů ke Štýrskému Hradci a otevřel se před námi překrásný výhled na toto malebné městečko a jeho téměř tři sta tisíc obyvatel, zalité prvními ranními paprsky vycházejícího slunce. Hradec jsme ale objeli, cestou jsme natankovali plnou nádrž a pokračovali na Maribor. Po kratším zdržení na slovinské hranici, kde jsme zakoupili dálniční známku a smrděl tam plyn, jsme rychle přejeli Slovinsko a vjeli na proslulé chorvatské pláně poblíž Záhřebu. 
 
-Cesta přes Karlovac do Šibeniku jsme si vzpomněli na všechny ty, kteří jedou do Chorvatska elektromobilem, protože jsme zahlédli odbočku na památník, postavený k uctění velkého vynálezce elektromobilu, chorvatského technika srbského původu Nikoly Tesly. A již brzy nato jsme poprvé za celou cestu zahlédli moře. To už bylo poledne a my měli před sebou ještě část cesty, až za Šibenik.
+Cesta přes Karlovac do Šibeniku jsme si vzpomněli na všechny ty, kteří jedou do Chorvatska elektromobilem, protože jsme zahlédli odbočku k památníku, postavenému k uctění velkého vynálezce elektromobilu, chorvatského technika srbského původu Nikoly Tesly. A již brzy nato jsme poprvé za celou cestu zahlédli moře. To už bylo poledne a my měli před sebou ještě část cesty, až za Šibenik.
 
 Do cíle jsme dojeli v pozdním odpoledni. Jak vidíte, naše zkušenost potvrdila, že do Chorvatska lze dojet i s naftovým SUV, a kromě nezbytných pauz na odpočinek a jedno tankování nevznikly výraznější prostoje. Není třeba se obávat komplikací, do cíle, jak sami vidíte, dojedete:
 
