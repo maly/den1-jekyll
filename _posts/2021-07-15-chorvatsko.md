@@ -25,7 +25,7 @@ Na závěr pár užitečných tipů a zajímavostí:
 - Ve všech zemích, kterými do Chorvatska projíždíte, se jezdí vpravo. Je rozumné to dodržovat.
 - Na hranicích mezi zeměmi se můžete chvíli zdržet.
 - V Chorvatsku je rozvinutá síť služeb, jsou zde například obchody s potravinami nebo velmi oblíbené restaurace, kde se lze najíst.
-- Natankováním paliva do vozu zvýšíte dojezd. Je dobré natankovat tzv. plnou. Zdržení bude maximálně pět minut. Když natankujete jen polovic, dojezd se vám výrazně zkrátí a budete muset stavit častěji.
+- Natankováním paliva do vozu zvýšíte dojezd. Je dobré natankovat tzv. plnou. Zdržení bude maximálně pět minut, a to bez kávy. Když natankujete jen polovic, dojezd se vám výrazně zkrátí a budete muset stavět častěji.
 - Mořská voda v Chorvatsku je slaná a nehodí se k pití.
 - Myjte si ruce!
 
