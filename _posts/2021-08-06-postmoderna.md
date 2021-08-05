@@ -41,3 +41,5 @@ Postmoderna se svou pluralitou a relativizací vyvolává logickou reakci a prot
 Jenže správná postmoderní odpověď je: "To není nutně pravda, to je jen tvůj názor, já mám jiný..."
 
 Bojujte s tím.
+
+_PS: "Lipovská prohlásila, že se Volný v parlamentu s nikým nepral a že jde jen o jeden výklad situace." To kdybyste nevěděli, jak to aplikovat. [Lipovská ještě k očkování dodala, že jí nevadí kandidovat vedle lidí, kteří zpochybňují vědecké studie a výsledky. „Nestavme vědce nad obyčejné lidi. Nemám ráda dělení na ‚hloupý vesničan, chytrý člověk z města‘“](https://www.idnes.cz/zpravy/domaci/hana-lipovska-rada-ct-rozstrel.A210804_115555_domaci_idvs)_
