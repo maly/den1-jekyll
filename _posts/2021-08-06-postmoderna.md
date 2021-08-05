@@ -36,7 +36,7 @@ Tak to jako _good luck_...
 
 Ale obávám se, že přesně tímhle procesem budeme muset projít - anebo se smířit s tím, že budoucnost bude iracionální, stejně jako středověk po zániku starého Říma. Že civilizace racionálna, udržovaná po staletí jen v klášterních knihovnách, zanikne a bude muset přijít nějaká nová renesance.
 
-Postmoderna se svou pluralitou a relativizací vyvolává, logickou reakci a protitlak. Touhu zachovat racionalitu jako superiorní postup. Touhu po tom mít autoritu, která řekne "věřte si, čemu chcete, ale toto odpovídá našemu poznání a je to v souladu s realitou". Touhu po každém postmoderním _a to jako chceš říct, že tvůj názor je lepší?_ odpovědět: **Ano, tvůj názor se neslučuje s tím, co je okolo nás, a proto je horší, ba co dím: je pitomý!**
+Postmoderna se svou pluralitou a relativizací vyvolává logickou reakci a protitlak. Touhu zachovat racionalitu jako superiorní postup. Touhu po tom mít autoritu, která řekne "věřte si, čemu chcete, ale toto odpovídá našemu poznání a je to v souladu s realitou". Touhu po každém postmoderním _a to jako chceš říct, že tvůj názor je lepší?_ odpovědět: **Ano, tvůj názor se neslučuje s tím, co je okolo nás, a proto je horší, ba co dím: je pitomý!**
 
 Jenže správná postmoderní odpověď je: "To není nutně pravda, to je jen tvůj názor, já mám jiný..."
 
