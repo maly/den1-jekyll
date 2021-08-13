@@ -1,0 +1,6 @@
+Žebříček hyenismu s přehledem vedou ezopíče, ezokokoti, léčitelé a další verbež, která (pro)dává falešnou naději trpícím a zoufalým a tváří se, že to dělá pro jejich dobro.
+Daleko za sebou nechávají ty, co okrádají oběti nehod, bulvární novináře, lichváře a filcky...
+
+Ostatně soudím, že v pekle mají speciální oddělení pro lidičky, který furt nevěděli, co si počít se svým životem, nepomáhalo jim ani New Age, ani holotropní dýchání, ani Čtrnáct Tibeťanů, až ve svých zralých třiadvaceti letech dojeli do jižní Ameriky, tam je šaman nalil ayahuascou (protože to je teď nejvíc v módě a ketamin nebo LSD jsou příliš "chemie" a příliš "západní"), jim v tu chvíli došlo, co je život a jak se má žít, a od té chvíle se cítí oprávněni udělovat kdekomu blahosklonné rady na požádání, zejména v oblasti psychologie, osobního rozvoje a medicíny, a to z pozice člověka, který "ví, jak to je, protože prozřel". Aniž by si byť na půl sekundy uvědomili, že jestli z toho mají nějaké duchovní prožitky, tak to jsou prožitky určené PRO NĚ! (Třeba pan Ch. nebo pan M.)
+Obzvlášť rezatejma vidlema pak belzebub bude píchat do prdele všechny, co těmhle lidičkám dávají prostor v médiích!
+Konec hlášení.
