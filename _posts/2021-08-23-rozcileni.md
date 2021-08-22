@@ -23,6 +23,8 @@ Z hitparády pro fázi I vybírám:
 - Je to dezinformační kampaň. To v programu nemáme.
 - Možná máme, ale překroutili to.
 - Možná nepřekroutili, ale není to teď podstatné, teď je podstatné porazit Babiše!
+- Babiš na nás útočí, protože se nás bojí.
+- SPOLU na nás útočí, protože se nás bojí.
 
 Pod tím vším běží nonstop brumendo tremendis, obstarávané sborem příznivců:
 
@@ -33,14 +35,17 @@ Pod tím vším běží nonstop brumendo tremendis, obstarávané sborem přízn
 - Kdo do toho rýpe, ten je nácek a xenofob a pomáhá Babišovi.
 - Kdybyste radši roznášeli letáky demokratické opozice (teda naše, ne SPOLU).
 - Zasloužil jste si svůj jidášský groš, pane pisálku v Babišově žoldu!
+- SPOLU jsou lumpové, co na nás útočí.
+- Kdo na nás útočí, zrazuje demokracii, podkopává demokratickou opozici a buduje totalitu.
 
 Fáze II, totiž fáze smiřování s klesajícími preferencemi, se jede klasika:
 
 - Víc nedokážeme, vzhledem k tomu, jak mocná je dezinformační kampaň.
 - Všichni se proti nám spikli s Babišem, protože... nevíme proč, ale spikli se!
 - Mysleli jsme to dobře.
+- Poděkujte sami sobě, pěkně jste vrazili demokracii nůž do zad!
 
-Aniž by byť jediného vrtáka napadlo, že nejslabším článkem celé pirátské prezentace není neschopnost vyvracet cizí pomluvy, ale neschopnost k pomluvám nezavdat příležitost. Žádná z oněch _dezinformačních kampaní_ totiž nevznikla od stolu, a za každou jednou stojí původně nějaký Pirát, kterému přišlo jako dobrý nápad rozmáznout někam na síť svoje hnutí mysli, svoje _jubilare praecox_, a ještě si v něm zatancovat.
+Nejslabším článkem celé pirátské prezentace totiž není neschopnost vyvracet cizí pomluvy, ale neschopnost k pomluvám nezavdat příležitost, potažmo zaujmout jasný postoj. Žádná z oněch _dezinformačních kampaní_ totiž nevznikla od stolu, a za každou jednou stojí původně nějaký Pirát, kterému přišlo jako dobrý nápad rozmáznout někam na síť svoje hnutí mysli, svoje _jubilare praecox_, a ještě si v něm zatancovat.
 
 A koalice SPOLU se nebude vůbec smát, bude velmi pokorná a bude si opakovat: "Ta nová procenta jsou navzdory naší kampani, ne díky ní. Nejsou za to, že to děláme skvěle, ale za to, že to zrovna teď málo vořeme!"
 
