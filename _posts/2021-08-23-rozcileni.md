@@ -40,9 +40,9 @@ Pod tím vším běží nonstop brumendo tremendis, obstarávané sborem přízn
 - SPOLU jsou lumpové, co na nás útočí.
 - Kdo na nás útočí, zrazuje demokracii, podkopává demokratickou opozici a buduje totalitu.
 
-Fáze II, totiž fáze smiřování s klesajícími preferencemi, se jede klasika:
+Fáze II, totiž fáze smiřování s klesajícími preferencemi, se nese v duchu osvědčených fláků:
 
-- Víc nedokážeme, vzhledem k tomu, jak mocná je dezinformační kampaň.
+- Víc nedokážeme, vzhledem k tomu, jak mocná je dezinformační kampaň proti nám.
 - Všichni se proti nám spikli s Babišem, protože... nevíme proč, ale spikli se!
 - Mysleli jsme to dobře.
 - Poděkujte sami sobě, pěkně jste vrazili demokracii nůž do zad!
