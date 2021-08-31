@@ -12,7 +12,7 @@ Po cestě zpátky jsme se s kolegou bavili o všem možném, a on zmínil, že �
 
 Dojel jsem domů, a jak tak sedím, tak cítím prudkou bolest pod kolenem. A pak v ramenou, na krku, pak na plicích... _Trombóza_, lekl jsem se. _Už je to tady!_ No, nebyla to asi, snad, trombóza, jen neurovegetativní reakce na vyčerpání a stres, ale tím spíš...
 
-Sjel jsem tedy do knihkupectví pro Bombu, a našel jsem tam i Katastrofu. Tedy plným názvem [Ruzko 1917 - Katastrofa](https://www.kosmas.cz/knihy/275338/rusko-1917.-katastrofa/#pos=0). Dojel jsem domů, lehnul si a četl.
+Sjel jsem tedy do knihkupectví pro Bombu, a našel jsem tam i Katastrofu. Tedy plným názvem [Rusko 1917 - Katastrofa](https://www.kosmas.cz/knihy/275338/rusko-1917.-katastrofa/#pos=0). Dojel jsem domů, lehnul si a četl.
 
 Katastrofu jsem dal během podvečera. Je to děsivé čtení. Takhle zdálky je vidět každá ta odbočka, kdy se to ještě dalo zvrátit, zachránit, změnit, ale všechno směřuje ke známému scénáři. Je to jako sledovat dokumenty o Černobylu s jejich "Tehdy ještě šlo katastrofě zabránit".
 
