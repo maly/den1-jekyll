@@ -24,9 +24,9 @@ Pak se objevil [Revolut. Už jsem o něm psal](https://adent.medium.com/revolut-
 
 Jenže to jsou debetky. Obdobu kreditní karty jsem si udělal na [Twisto](http://bit.ly/300twisto). Jasně, založil jsem si ho hlavně kvůli placení na DámeJídlo a Rohlíku, ale ta kreditka (vlastně karta k úvěrovému rámci) byla docela dobrá věc. Navíc když mi kartu v USA zkopírovali a pokoušeli se ji použít v Chicagu, tak Twisto reagovalo pohotově, takže bylo jen drobné mrzení.
 
-Poslední přírůstek byl [MallPay](https:/bit.ly/mallpaycz). Zařizoval jsem si ho kvůli předplatnému na Infu, protože se ptali, jestli by to šlo použít. Nakonec nešlo, a já tu registraci nedodělal. Jen mi čas od času psali, a nějak na začátku prázdnin jsem si řekl, že asi jo. Asi jsem chtěl něco koupit na Mallu, pak to stejně nevyšlo, ale MallPay jsem si tedy zřídil.
+Poslední přírůstek byl [MallPay](https://bit.ly/mallpaycz). Zařizoval jsem si ho kvůli předplatnému na Infu, protože se ptali, jestli by to šlo použít. Nakonec nešlo, a já tu registraci nedodělal. Jen mi čas od času psali, a nějak na začátku prázdnin jsem si řekl, že asi jo. Asi jsem chtěl něco koupit na Mallu, pak to stejně nevyšlo, ale MallPay jsem si tedy zřídil.
 
-V podstatě to je jako [Twisto](http://bit.ly/300twisto): Máte úvěr, máte k němu kartu, platíte, na konci měsíce se to zúčtuje (jo, včera), a vy zaplatíte. Platbu si můžete odložit (a je to pak jako půjčka), ale já jsem ten typ, který kreditky splácí hned, takže jejich provozovatelům moc nevydělávám - ale co už, to není moje starost, ale jejich. Máte samozřejmě fyzickou kartu, máte i aplikaci, kde vidíte, co a jak, a je to integrované s Apple Wallet, takže jsem si "Mallovou" kreditku dal do hodinek a platím s ní. (Mají i Garmin a Google.)
+V podstatě to je jako [Twisto](https://bit.ly/300twisto): Máte úvěr, máte k němu kartu, platíte, na konci měsíce se to zúčtuje (jo, včera), a vy zaplatíte. Platbu si můžete odložit (a je to pak jako půjčka), ale já jsem ten typ, který kreditky splácí hned, takže jejich provozovatelům moc nevydělávám - ale co už, to není moje starost, ale jejich. Máte samozřejmě fyzickou kartu, máte i aplikaci, kde vidíte, co a jak, a je to integrované s Apple Wallet, takže jsem si "Mallovou" kreditku dal do hodinek a platím s ní. (Mají i Garmin a Google.)
 
 Nemají virtuální kartu, to je takové drobné mínus. Integrováno mají s bránou ComGate, krom toho můžete přes tento účet platit na Mall.cz (logicky), u CZC, na Slevomatu, v Košíku (cz) a [ještě někde](https://mallpay.cz/kde-nakupovat).
 
@@ -34,4 +34,4 @@ Co mě na MallPay potěšilo nejvíc bylo, když jsem zjistil, že až do konce 
 
 Takže vlastně přemýšlím, jestli opravdu potřebuju držet mBank kvůli kreditce. Na rovinu říkám, že ještě jedna telemarketingová kampaň, a fakt to naše přátelství (byl jsem klientem od samého začátku) ukončíme. To rozhraní je fakt divné a pořád jsem si nezvykl. Aspoň že přestali s gamifikací.
 
-PS: Když si [MallPay pořídíte přes tento odkaz](https:/bit.ly/mallpaycz), dostaneme oba (vy i já) slevu 500 Kč na nákupy.
+PS: Když si [MallPay pořídíte přes tento odkaz](https://bit.ly/mallpaycz), dostaneme oba (vy i já) slevu 500 Kč na nákupy.
