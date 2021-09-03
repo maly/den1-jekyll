@@ -10,7 +10,7 @@ Varování: Tento zápisek není pro technologické hipstery a luddity. Lidi, co
 
 Tak.
 
-Už jsou pryč? Ne? Nojo, jo.
+Už jsou pryč? Ne? Nojo, no.
 
 Já přestal fyzickou hotovost používat už před drahnou dobou. Kde to jde, používám karty, a používám karty kreditní, protože debetní, to je tak akorát nástroj na vybírání z bankomatu. A sorry, kdo jsem já, abych šel vybírat z bankomatu a pak ty papírové peníze nosil do obchodů.
 
