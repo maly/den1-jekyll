@@ -14,7 +14,7 @@ Když jsme to na konci roku 2020 vymýšleli, tak jsem říkal: "No hele, já ta
 
 Ale nakonec se dobrá věc podařila, [Gazetisto je venku](https://www.mediaguru.cz/clanky/2021/09/zahajuje-gazetisto-sluzba-pro-ceske-tvurce-placeneho-obsahu/), a je to, jak jinak, betaverze. Stále do toho intenzivně hrabu, stále se může stát leccos a já to budu muset rychle upravit, stále vyvíjím nové funkce - a stále hledáme programátora.
 
-No, ale suma sumárum, proč to píšu vám a sem: Den 1 byl ve skutečnosti otevřený teaser na můj placený newsletter, který jsem dal, hezky po Ludwigovsku, _v této těžké době zdarma všem_. Od teď je to placené, a tady, tady ta verze zdarma končí, přátelé. Pokračovat to ale bude minimálně do konce roku. Pak to celé seberu a vydám, jak jsem chtěl. Budu to mít jako galerii roku 2021.
+No, ale suma sumárum, proč to píšu vám a sem: Den 1 byl ve skutečnosti otevřený teaser na můj [placený newsletter](https://p.gazetisto.com/den1), který jsem dal, hezky po Ludwigovsku, _v této těžké době zdarma všem_. [Od teď je Den 1 placený](https://p.gazetisto.com/den1/subscribe), a tady, tady ta verze zdarma končí, přátelé. Pokračovat to ale bude minimálně do konce roku. Pak to celé seberu a vydám, jak jsem chtěl. Budu to mít jako galerii roku 2021.
 
 Možná budu pokračovat dál, to podle zájmu.
 
